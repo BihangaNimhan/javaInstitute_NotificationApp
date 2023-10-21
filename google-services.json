@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433658705595",
+    "project_id": "javainstitutenotification",
+    "storage_bucket": "javainstitutenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433658705595:android:1aa38a86f180da8c049b9e",
+        "android_client_info": {
+          "package_name": "lk.exon.javainstitute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc2H1Rw-AnF3kN1ET-hVsdP6XWPDadpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
