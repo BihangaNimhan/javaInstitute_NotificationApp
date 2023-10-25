@@ -3,6 +3,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Login } from "./Login";
 import { Home } from "./Home";
 import { Notification } from "./Notification";
+import { Comming_soon } from "./Comming_soon";
+import { Detailed_view } from "./Detailed_view";
 
 const Stack = createNativeStackNavigator();
 
@@ -11,8 +13,8 @@ function App() {
     <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         <Stack.Screen
-          name="Notification"
-          component={Notification}
+          name="Comming_soon"
+          component={Comming_soon}
           options={{ title: "Log In" }}
         />
         <Stack.Screen
